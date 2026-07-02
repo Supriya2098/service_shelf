@@ -1,6 +1,6 @@
 # SERVICE SHELF — Indian Service Booking Platform
 
-A full-stack service booking platform built for Full Stack Development Week 7–8. Book home services like AC repair, deep cleaning, plumbing, salon at home, pest control and more across Indian cities through **SERVICE SHELF**.
+A full-stack service booking platform built for Full Stack Development Week 7,8,9. Book home services like AC repair, deep cleaning, plumbing, salon at home, pest control and more across Indian cities through **SERVICE SHELF**.
 
 ## Features
 
